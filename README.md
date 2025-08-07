@@ -6,4 +6,4 @@
 
 ---
 
-![](./github/workflows/profile-gitblock.svg)
+![](./github/workflows/profile-3d.svg)
