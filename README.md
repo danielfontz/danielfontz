@@ -5,9 +5,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielfontz&theme=tokyonight" alt="Gráfico de Linguagens com mais commits" width="48%" />
   <br/>
   <h3>Contribution History</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielfontz/danielfontz/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielfontz/danielfontz/output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuições estilo Pacman" src="https://raw.githubusercontent.com/danielfontz/danielfontz/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+  <img src="https://raw.githubusercontent.com/danielfontz/danielfontz/output/snake.svg" alt="Snake animation" />
